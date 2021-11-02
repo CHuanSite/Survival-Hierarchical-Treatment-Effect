@@ -1,0 +1,17 @@
+{
+    "path" : "~/new_work/Simulations/hierarchical_lasso/varying_censor_rate/rate_05",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605216863368.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2742822076",
+    "id" : "7EC1C15E",
+    "lastKnownWriteTime" : 1605043869,
+    "last_content_update" : 1605043869,
+    "path" : "~/new_work/Simulations/hierarchical_lasso/varying_censor_rate_200sample/rate_05/hiersurv_lasso.R",
+    "project_path" : "varying_censor_rate_200sample/rate_05/hiersurv_lasso.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

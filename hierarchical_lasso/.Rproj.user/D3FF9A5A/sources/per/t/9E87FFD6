@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605216916921.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4068574237",
+    "id" : "9E87FFD6",
+    "lastKnownWriteTime" : 1605372139,
+    "last_content_update" : 1605372139046,
+    "path" : "~/new_work/Simulations/hierarchical_lasso/varying_censor_rate_200sample/rate_05/hiersurv_p2.sh",
+    "project_path" : "varying_censor_rate_200sample/rate_05/hiersurv_p2.sh",
+    "properties" : {
+        "cursorPosition" : "3,22",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}
