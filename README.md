@@ -1,3 +1,3 @@
-# Survival-Hierarchical-Treatment-Effect
+# Lasso estimation of hierarchical interactions for analyzing heterogeneity of treatment effect
 
-Codes for the paper "Lasso estimation of hierarchical interactions for analyzing heterogeneity of treatment effect"
+codse for the paper
